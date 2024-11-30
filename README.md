@@ -1,7 +1,7 @@
-## students name 
+## Students Names
 - Maryam ALi 
 - Alya Aldaka
   
- ## stydents ID
+ ## Students ID
  - 202209427
- - 
+ - 202208622
