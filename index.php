@@ -10,7 +10,7 @@ $data = json_decode($response, true);
 
 // Check if data is retrieved successfully and "records" key exists
 if (!$data || !isset($data["results"])) {
-  die("Error: Failed to retrieve data from the API."); // Exit if the data is invalid
+  die("Error: Failed to retrieve data from the API."); 
 }
 $outcome = $data["results"];
 
